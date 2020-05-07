@@ -1,0 +1,8 @@
+.scroll {
+  height: 50px;
+  width: 500px;
+  background-color: gray;
+  overflow-x: scroll;
+  overflow-y: hidden;
+  white-space: nowrap;
+}
